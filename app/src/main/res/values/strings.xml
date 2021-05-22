@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AprendendoLista</string>
+    <string name="buscar">Buscar</string>
 </resources>
